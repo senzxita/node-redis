@@ -15,14 +15,8 @@
   ],
   "author": "Matt Ranney <mjr@ranney.com>",
   "contributors": [
-    {
-      "name": "Mike Diarmid (Salakar)",
-      "url": "https://github.com/salakar"
-    },
-    {
-      "name": "Ruben Bridgewater (BridgeAR)",
-      "url": "https://github.com/BridgeAR"
-    }
+    "Mike Diarmid (Salakar)",
+    "Ruben Bridgewater (BridgeAR)"
   ],
   "license": "MIT",
   "main": "./index.js",
